@@ -22,19 +22,32 @@ PART1:
 PART2:
 
 **Branch** - A branch is an instruction that causes a computer to begin executing a different instruction sequence.
+
 **Clone** - An exact copy of another application program or object.
+
 **Commit** - Snapshots or milestones along the timeline of a Git project.
+
 **Fetch** -  Downloads commits, files, and refs from a remote repository into your local repo.
+
 **GIT** - Version control systerm used for tracking changes in a set of files.
+
 **Github** - Provider of Internet hosting for software development and version control using Git.
-**Merge** - Combines multiple sequences of commits into one unified history
-**Merge Conflict** - Conflict that occurs when Git is unable to automatically resolve differences in code between two conflicts
-**Push** - Command used to upload local repository content to a remote repository
+
+**Merge** - Combines multiple sequences of commits into one unified history.
+
+**Merge Conflict** - Conflict that occurs when Git is unable to automatically resolve differences in code between two conflicts.
+
+**Push** - Command used to upload local repository content to a remote repository.
+
 **Pull** - Command used to fetch and download content from a remote repository and update the local repository to match that content.
+
 **Remote** - Manage the set of repositories whose branches you track.
+
 **Repository** - A repository is the .git/ folder inside a project. It tracks all changes made to files in your project.
 
 
 reference list:
+
 https://njit.instructure.com/courses/19295/files/folder/Week03?preview=2570912
+
 https://www.gitkraken.com/learn/git/tutorials/what-is-a-git-repository
